@@ -119,6 +119,6 @@ Please consider citing our paper if you use this dataset or code in your researc
   year      = {2026},
   address   = {Saint-Malo, France},
   publisher = {ACM},
-  doi       = {10.1145/xxxxxxx.xxxxxxx}
+  doi       = {10.1145/3774906.3802782}
 }
 ```
