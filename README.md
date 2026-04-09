@@ -5,7 +5,7 @@ The multimodal wearable BCI dataset with synchronized EEG, IMU, and egocentric v
 This repository provides the code release of [**WearBCI**](https://doi.org/10.1145/3774906.3802782). WearBCI includes synchronized 8-channel EEG (250 Hz), 5-point IMU (100 Hz), and egocentric video (30 FPS) recordings across four sessions: static baseline, body movements, walking, and navigation. Beyond benchmarking existing EEG enhancement methods, the dataset enables two case studies: cross-modal EEG signal enhancement using IMU, and multi-dimensional human behavior understanding using multimodal large language models.
 
 ✅ Paper: [ACM SenSys '26](https://doi.org/10.1145/3774906.3802782) \
-✅ Dataset: [Link to be updated](https://1drv.ms/f/c/6a75cf94601a650a/IgAaS_6cbyENT6tmgPaIXDLtARspJ7FwXkK14fj88JZ_zEY?e=beEqvh)
+✅ Dataset: [WearBCI Dataset](https://1drv.ms/f/c/6a75cf94601a650a/IgAaS_6cbyENT6tmgPaIXDLtARspJ7FwXkK14fj88JZ_zEY?e=beEqvh)
 
 ## Dataset Overview
 
